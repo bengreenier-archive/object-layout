@@ -1,0 +1,27 @@
+{
+  "name": "object-layout",
+  "version": "0.1.0",
+  "description": "force a specific object layout in node",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.5.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengreenier/object-layout.git"
+  },
+  "keywords": [
+    "object",
+    "layout"
+  ],
+  "author": "Ben Greenier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bengreenier/object-layout/issues"
+  },
+  "homepage": "https://github.com/bengreenier/object-layout#readme"
+}
